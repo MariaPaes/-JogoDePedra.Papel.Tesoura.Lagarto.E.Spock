@@ -40,6 +40,7 @@ As regras do jogo são as seguintes:
 - Spock vaporiza Pedra.
 - Pedra quebra Tesoura.
 
+<img src="./RegrasDoJogo.png" alt="Regras do jogo do pedra, papel, tesoura, lagarto e Spock">
 
 ## Personalização
 
